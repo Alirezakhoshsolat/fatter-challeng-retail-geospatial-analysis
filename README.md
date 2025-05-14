@@ -5,10 +5,10 @@ This repository contains our collaborative work for a university course project 
 
 ## Team Members
 This project was completed as a team effort by:
-- [Seyyedalireza Khosh solat]
-- [Shayan Ekramnia ]
-- [Farshad Farahtaj]
-- [Sara Aboudarda]
+- Seyyedalireza Khosh solat
+- Shayan Ekramnia
+- Farshad Farahtaj
+- Sara Aboudarda
 
 ## Legal Disclaimer
 The original dataset used for this project was provided by Fatter/Fitter Wear company exclusively for educational purposes. **This repository does not contain any original proprietary dataset or confidential information**. All data files included are synthetic samples created only to demonstrate the structure and methodology of the analysis.
